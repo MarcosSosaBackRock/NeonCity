@@ -58,11 +58,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6442298374534657108, guid: 1eb4e18cd51294649ad9bd0eac9ca2f1,
+        type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: af84204fdf2bec04fbeb2959cb75b44d, type: 2}
     - target: {fileID: 919132149155446097, guid: 1eb4e18cd51294649ad9bd0eac9ca2f1,
         type: 3}
       propertyPath: m_Name
       value: BackRock
       objectReference: {fileID: 0}
+    - target: {fileID: 4253280567622488715, guid: 1eb4e18cd51294649ad9bd0eac9ca2f1,
+        type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: af84204fdf2bec04fbeb2959cb75b44d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
